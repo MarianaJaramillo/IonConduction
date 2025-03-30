@@ -8,16 +8,7 @@ This repository contains a Monte Carlo simulation for studying ion dynamics in a
 - **Umbrella Sampling**: Introduced to overcome energy barriers and study rare transitions.  
 - **Visualization**: Plots energy profiles and ion trajectories.  
 
-## Installation  
-Clone the repository and install the required dependencies:  
-
-```bash
-git clone <repository-url>
-cd <repository-folder>
-pip install -r requirements.txt
-
-## Usage
-Run the Jupyter Notebook to simulate ion dynamics:
+## Installation and Usage 
+Clone the repository and run the Jupyter Notebook to simulate ion dynamics:
 
 jupyter notebook MonteCarloProject.ipynb
-
